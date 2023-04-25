@@ -9,7 +9,7 @@ This project aims to create a secure and decentralized system for document verif
 
 ## Features
 
-- Secure document verification using Blockchain and IPFS technologies
+- Secure documents verification using Blockchain and IPFS technologies
 - Decentralized system, with no central authority or single point of failure
 - Fast and easy verification process, with no need for intermediaries or third-party services
 - User-friendly interface for document upload and verification
